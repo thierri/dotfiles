@@ -4,8 +4,12 @@
 
 Instalar o neovim através das instruções contidas em: https://neovim.io/
 
-Vericar qual é a pasta do runtime do vim através do comando:
+Executar o healthcheck.
 
-:!echo $VIMRUNTIME
+Verificar se o arquivo init.vim foi criado e está sendo executado. Geralmente é em  ~/.config/nvim/init.vim
 
-Adicionar o vim-plug (https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim) na pasta autoload
+Fazer uma referência ao arquivo plug.vim no arquivo init.vim, exemplo:
+
+source ~/.config/nvim/plugins/plug.vim
+
+Colar o conteúdo do dotfile, e executar :PlugInstall
