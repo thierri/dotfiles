@@ -1,4 +1,7 @@
 # dotfiles
+## Terminal
+
+https://www.youtube.com/watch?v=PZTLIVQxxEY
 
 ## Vim
 
