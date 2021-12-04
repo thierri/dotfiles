@@ -1,5 +1,12 @@
 # dotfiles
 ## Terminal
+* Install ZSH
+* Install Oh my zsh
+* Install Powerlevel10k (https://github.com/romkatv/powerlevel10k)
+* Install Fonts (https://github.com/ibnyusrat/my-linux-setup)
+* Install gnome tweeks
+
+### Referencia
 
 https://www.youtube.com/watch?v=PZTLIVQxxEY
 
