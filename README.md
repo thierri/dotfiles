@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=PZTLIVQxxEY
 
 ## Vim
 
-Instalar o neovim através das instruções contidas em: https://neovim.io/
+Instalar o neovim através das instruções contidas em: https://neovim.io/. Instalar a ultima versao (0.6)
 
 Executar o healthcheck.
 
