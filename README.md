@@ -27,3 +27,4 @@ Colar o conteúdo do dotfile, e executar :PlugInstall
 ### Boas Referencias
 * https://www.youtube.com/watch?v=434tljD-5C8&t=135s
 * https://github.com/LunarVim/Neovim-from-scratch/tree/01-options
+* https://github.com/kabinspace/AstroVim
